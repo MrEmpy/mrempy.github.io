@@ -23,7 +23,7 @@ timezone:
 
 title: MrEmpy                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: MrEmpy Site   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   「🎩」Pentester & Bug Hunter
@@ -44,12 +44,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: MrEmpy
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/mr_empy      # change to your twitter homepage
+    - https://github.com/mrempy       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -87,7 +87,7 @@ theme_mode:   dark # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: mrempy.gif
 
 # boolean type, the global switch for ToC in posts.
 toc: true
