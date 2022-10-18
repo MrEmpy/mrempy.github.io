@@ -1,4 +1,10 @@
-<h4>Hey! I'm MrEmpy, I'm 17 years old and I study information security and programming, I'm a Youtuber and I do CTF and hack content. In my spare time I like to do Bug Bounty and look for vulnerabilities in apps. I work as an information security analyst in a company.</h4>
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+---
+
+Hey! I'm MrEmpy, I'm 17 years old and I study information security and programming, I'm a Youtuber and I do CTF and hack content. In my spare time I like to do Bug Bounty and look for vulnerabilities in apps. I work as an information security analyst in a company.
 
 <img src="https://github-readme-stats.vercel.app/api?username=MrEmpy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrEmpy&hide=html,css,javascript,shell&layout=compact&theme=radical" alt="My cool logo"/>
