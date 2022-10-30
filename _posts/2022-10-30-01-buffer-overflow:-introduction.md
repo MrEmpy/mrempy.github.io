@@ -80,4 +80,4 @@ The buffer was 32 bytes, and on the first run only 7 bytes were added, which res
 
 ## Conclusion
 
-Today we learned how the buffer overflow failure occurs and how the stack works. Try running the example codes on your machine and see the result. In the next articles we will cover ways to get shell from a machine.
+Today we learned how the buffer overflow failure occurs and how the stack works. Try running the [example codes](https://github.com/MrEmpy/BufferOverflow/tree/main/01-introduction) on your machine and see the result. In the next articles we will cover ways to get shell from a machine.
