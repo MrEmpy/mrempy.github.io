@@ -2,11 +2,17 @@
 
 In recent years, a new technique has been discovered by threat researchers that are being used by various APTs such as FIN7, BlackEnergy and APT37.
 
+## What is an APT?
+
 An advanced persistent threat (APT) is a prolonged, targeted cyberattack in which an attacker gains access to a network and remains undetected for an extended period of time. APT attacks are initiated to steal data rather than damage the target organization’s network.
 
-The technique takes advantage of a feature in Office 365 that allows execution of Visual Basic for Applications (VBA) code through macros. This technique can be applied to Word, Excel, PowerPoint and other files. The attacks take place through a malicious campaign, using the spear phishing attack.
+## What is Spear phishing?
 
 Spear phishing is a type of phishing campaign that targets a specific person or group and usually includes information known to be of interest to the target, such as current events or financial documents.
+
+## How is the attack done?
+
+The technique takes advantage of a feature in Office 365 that allows execution of Visual Basic for Applications (VBA) code through macros. This technique can be applied to Word, Excel, PowerPoint and other files. The attacks take place through a malicious campaign, using the spear phishing attack.
 
 Attacks are typically done via email, where a malicious group sends a large scale of messages to every email address collected about a corporation. Attached to these emails, there is a file that contains malicious VBA code, it can be a spreadsheet or even slides. After a user opens the file, he will receive an alert to allow the macro to be activated, if he allows, the code execution will be successful, infecting the user’s computer.
 
