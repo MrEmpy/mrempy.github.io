@@ -36,6 +36,7 @@ Hey! I'm MrEmpy, I'm 17 years old and I study information security and programmi
 
 | CVE | Title |
 | ----------- | ----------- |
+| [CVE-2022-4296](https://www.cve.org/CVERecord?id=CVE-2022-4296) | TP-Link TL-WR740N ARP resource consumption |
 | [CVE-2022-3464](https://www.cve.org/CVERecord?id=CVE-2022-3464) | PuppyCMS >= 5.1 - Cross-site Scripting Stored |
 | [CVE-2022-2591](https://www.cve.org/CVERecord?id=CVE-2022-2591) | FLEX-1085 Web Denial of Service |
 | [CVE-2022-1288](https://www.cve.org/CVERecord?id=CVE-2022-1288) | School Club Application System (SCAS) 1.0 - Cross-Site Scripting Reflected |
