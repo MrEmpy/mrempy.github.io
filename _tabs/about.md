@@ -6,6 +6,7 @@ order: 4
 
 Hey! I'm MrEmpy, I'm 17 years old and I study information security and programming, I'm a Youtuber and I do CTF and hack content. In my spare time I like to do Bug Bounty and look for vulnerabilities in apps. I work as an information security analyst in a company.
 
+<img src="https://github-readme-stats.vercel.app/api?username=MrEmpy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrEmpy&hide=html,css,javascript,shell&layout=compact&theme=radical" alt="My cool logo"/>
 
 <h2>More about me</h2>
@@ -35,6 +36,7 @@ Hey! I'm MrEmpy, I'm 17 years old and I study information security and programmi
 
 | CVE | Title |
 | ----------- | ----------- |
+| [CVE-2023-0029](https://www.cve.org/CVERecord?id=CVE-2023-0029) | Multilaser RE708 Telnet Service denial of service |
 | [CVE-2022-4296](https://www.cve.org/CVERecord?id=CVE-2022-4296) | TP-Link TL-WR740N ARP resource consumption |
 | [CVE-2022-3464](https://www.cve.org/CVERecord?id=CVE-2022-3464) | PuppyCMS >= 5.1 - Cross-site Scripting Stored |
 | [CVE-2022-2591](https://www.cve.org/CVERecord?id=CVE-2022-2591) | FLEX-1085 Web Denial of Service |
