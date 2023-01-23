@@ -57,3 +57,5 @@ Hey! I'm MrEmpy, I'm 17 years old and I study information security and programmi
 | [CVE-2022-1078](https://www.cve.org/CVERecord?id=CVE-2022-1078) | College Website Management System 1.0 - SQL Injection |
 | [CVE-2022-1073](https://www.cve.org/CVERecord?id=CVE-2022-1073) | Automatic Question Paper Generator System 1.0 - Authentication Bypass |
 | [CVE-2022-1074](https://www.cve.org/CVERecord?id=CVE-2022-1074) | FLEX 1085 Web 1.6.0 - HTML Injection |
+
+.
