@@ -36,6 +36,7 @@ Hey! I'm MrEmpy, I'm 17 years old and I study information security and programmi
 
 | CVE | Title |
 | ----------- | ----------- |
+| [CVE-2023-28633](https://www.cve.org/CVERecord?id=CVE-2023-28633) | GLPI >= 0.84 - Blind Server-Side Request Forgery |
 | [CVE-2023-0029](https://www.cve.org/CVERecord?id=CVE-2023-0029) | Multilaser RE708 Telnet Service denial of service |
 | [CVE-2022-4296](https://www.cve.org/CVERecord?id=CVE-2022-4296) | TP-Link TL-WR740N ARP resource consumption |
 | [CVE-2022-3464](https://www.cve.org/CVERecord?id=CVE-2022-3464) | PuppyCMS >= 5.1 - Cross-site Scripting Stored |
