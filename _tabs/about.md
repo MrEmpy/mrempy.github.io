@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hey! I'm MrEmpy, I'm 17 years old and I study information security and programming, I'm a Youtuber and I do CTF and hack content. In my spare time I like to do Bug Bounty and look for vulnerabilities in apps. I work as an information security analyst in a company.
+Hey! I'm MrEmpy, I'm 18 years old and I study information security and programming, I'm a Youtuber and I do CTF and hack content. In my spare time I like to do Bug Bounty and look for vulnerabilities in apps. I work as an information security analyst in a company.
 
 <h2>More about me</h2>
 
@@ -55,6 +55,3 @@ Hey! I'm MrEmpy, I'm 17 years old and I study information security and programmi
 | [CVE-2022-1078](https://www.cve.org/CVERecord?id=CVE-2022-1078) | College Website Management System 1.0 - SQL Injection |
 | [CVE-2022-1073](https://www.cve.org/CVERecord?id=CVE-2022-1073) | Automatic Question Paper Generator System 1.0 - Authentication Bypass |
 | [CVE-2022-1074](https://www.cve.org/CVERecord?id=CVE-2022-1074) | FLEX 1085 Web 1.6.0 - HTML Injection |
-
-.
-.
