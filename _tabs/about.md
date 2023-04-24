@@ -33,6 +33,8 @@ Hey! I'm MrEmpy, I'm 18 years old and I study information security and programmi
 
 | CVE | Title |
 | ----------- | ----------- |
+| [CVE-2022-4944](https://www.cve.org/CVERecord?id=CVE-2022-4944) | KodExplorer <= 4.49 - Cross-site Request Forgery (CSRF) to Remote Code Execution (RCE) |
+| [CVE-2023-2231](https://www.cve.org/CVERecord?id=CVE-2023-2231) | MAXTECH MAX-G866ac Wireless - Remote Code Execution Unauthenticated |
 | [CVE-2023-28633](https://www.cve.org/CVERecord?id=CVE-2023-28633) | GLPI >= 0.84 - Blind Server-Side Request Forgery |
 | [CVE-2023-0029](https://www.cve.org/CVERecord?id=CVE-2023-0029) | Multilaser RE708 Telnet Service denial of service |
 | [CVE-2022-4296](https://www.cve.org/CVERecord?id=CVE-2022-4296) | TP-Link TL-WR740N ARP resource consumption |
