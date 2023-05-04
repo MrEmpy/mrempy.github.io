@@ -33,6 +33,10 @@ Hey! I'm MrEmpy, I'm 18 years old and I study information security and programmi
 
 | CVE | Title |
 | ----------- | ----------- |
+| [CVE-2023-2521](https://www.cve.org/CVERecord?id=CVE-2023-2521) | NEXT-7004N 3.0.1 - Cross-site Scripting Stored |
+| [CVE-2023-2417](https://www.cve.org/CVERecord?id=CVE-2023-2417) | Advanced Host Monitor <= 12.56 - Unquoted Service Path |
+| [CVE-2023-2519](https://www.cve.org/CVERecord?id=CVE-2023-2519) | Caton CTP Relay Server 1.2.9 - SQL Injection Unauthenticated |
+| [CVE-2023-2520](https://www.cve.org/CVERecord?id=CVE-2023-2520) | Caton Prime 2.1.2.51.e8d7225049(202303031001) - Command Injection	 |
 | [CVE-2022-4944](https://www.cve.org/CVERecord?id=CVE-2022-4944) | KodExplorer <= 4.49 - Cross-site Request Forgery (CSRF) to Remote Code Execution (RCE) |
 | [CVE-2023-2231](https://www.cve.org/CVERecord?id=CVE-2023-2231) | MAXTECH MAX-G866ac Wireless - Remote Code Execution Unauthenticated |
 | [CVE-2023-28633](https://www.cve.org/CVERecord?id=CVE-2023-28633) | GLPI >= 0.84 - Blind Server-Side Request Forgery |
