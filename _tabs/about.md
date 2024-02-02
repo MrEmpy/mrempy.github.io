@@ -33,7 +33,7 @@ Hey! I'm MrEmpy, I'm 18 years old and I study information security and programmi
 
 | CVE | Title |
 | ----------- | ----------- |
-| [CVE-2023-2521](https://www.cve.org/CVERecord?id=CVE-2023-2521) | NEXT-7004N 3.0.1 - Cross-site Scripting Stored |
+| [CVE-2023-2521.](https://www.cve.org/CVERecord?id=CVE-2023-2521) | NEXT-7004N 3.0.1 - Cross-site Scripting Stored |
 | [CVE-2023-2417](https://www.cve.org/CVERecord?id=CVE-2023-2417) | Advanced Host Monitor <= 12.56 - Unquoted Service Path |
 | [CVE-2023-2519](https://www.cve.org/CVERecord?id=CVE-2023-2519) | Caton CTP Relay Server 1.2.9 - SQL Injection Unauthenticated |
 | [CVE-2023-2520](https://www.cve.org/CVERecord?id=CVE-2023-2520) | Caton Prime 2.1.2.51.e8d7225049(202303031001) - Command Injection	 |
